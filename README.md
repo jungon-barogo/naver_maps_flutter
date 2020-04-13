@@ -1,6 +1,6 @@
 # naver_maps_flutter
 
-A new flutter plugin project.
+Naver Maps for Flutter inspired by Google Maps for Flutter.
 
 ## Getting Started
 

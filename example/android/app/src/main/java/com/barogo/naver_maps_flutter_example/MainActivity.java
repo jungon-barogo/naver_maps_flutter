@@ -1,4 +1,4 @@
-package com.example.naver_maps_flutter_example;
+package com.barogo.naver_maps_flutter_example;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
